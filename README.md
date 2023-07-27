@@ -22,7 +22,7 @@ La interfaz es muy simple e intuitiva, por lo que el usuario no encontrará ning
 
 📂 Ve al menú <img alt="Static Badge" src="https://img.shields.io/badge/<>Code-brightgreen"> y descarga el archivo ZIP.
 <br>
-⚒️ Abre el proyecto con tu IDE favorito (Yo utilicé Eclipse 2020-06) y corre el archivo Conversor.java del package logica.
+⚒️ Abre el proyecto con tu IDE favorito (yo utilicé Eclipse 2020-06) y corre el archivo Conversor.java del package logica.
 <br>
 😄: Disfruta!
 
