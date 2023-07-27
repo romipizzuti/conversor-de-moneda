@@ -16,7 +16,7 @@ La interfaz es muy simple e intuitiva, por lo que el usuario no encontrará ning
 
 # Estado del Proyecto
 
-✔️ El proyecto se encuentra finalizado, pero se reciben comentarios de mejoras de código y cualquier otra idea que ayude a que el proyecto crezca.
+✔️ El proyecto se encuentra finalizado, pero se reciben comentarios de mejoras de código y cualquier otra idea que ayude a que el proyecto crezca 😉
 
 # Acceso al Proyecto
 
